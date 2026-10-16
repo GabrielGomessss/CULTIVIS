@@ -42,7 +42,7 @@ Participação na montagem e integração do circuito eletrônico responsável p
 |---|---|
 | ESP32 DevKit V1 | Executar o firmware e realizar a comunicação com os sensores |
 | DHT11 | Realizar medições de temperatura e umidade |
-| Módulo sensor de pH 4502C | Permitir a medição do pH por meio de um sensor compatível |
+| Módulo sensor de pH-4502C | Permitir a medição do pH por meio de um sensor compatível |
 | Protoboard | Facilitar a montagem e conexão dos componentes |
 | Resistores e jumpers | Auxiliar nas conexões e na adequação elétrica do circuito |
 | Bateria recarregável | Componente previsto para a alimentação do conjunto |
